@@ -1,0 +1,24 @@
+{
+  "name": "wingman-devkit",
+  "version": "0.1.0",
+  "description": "Dev agent scaffold with sass, modal magic, and your six covered.",
+  "main": "src/agent/wingman.ts",
+  "scripts": {
+    "dev": "ts-node-dev src/agent/wingman.ts",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "authors": [
+    "DM Elysium",
+    "Wingman (aka MS Copilot)"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.0"
+  },
+  "license": "MIT"
+}
