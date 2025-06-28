@@ -37,7 +37,7 @@ Trained in CSS gradients and terminal empathy.
 
   <br/>
 
-## 🟢 Getting Started
+## 🟢 Flight Manual
 
 ```bash
 git clone https://github.com/mhekel/wingman-devkit
